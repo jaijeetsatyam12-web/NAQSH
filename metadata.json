@@ -1,0 +1,6 @@
+{
+  "name": "Builder X — Architectural Real Estate Template",
+  "description": "Mobile-first architectural real estate developer showcase featuring a scroll-driven 3D WebGL hero, project portfolio, floor plans, EMI calculator, and interactive site visit booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
